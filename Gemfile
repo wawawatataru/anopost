@@ -9,7 +9,7 @@ gem "rails", "~> 6.1.3"
 gem "pg"
 gem "puma", "~> 5.3"
 gem "sass-rails", "~> 6"
-gem "webpacker", "~> 5.3"
+gem "webpacker", "~> 5.4"
 gem "turbolinks", "~> 5"
 gem "jbuilder", "~> 2.11"
 gem "bootsnap", ">= 1.4.2", require: false
